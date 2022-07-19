@@ -15,6 +15,7 @@
 - 🌱 I’m helping clients who want achieve thier dream into reality through technologies
 
 ### 📫 Reach me :point_down::
+[LinkedIn](https://www.linkedin.com/in/saumil-shah-b954b9101/) 
 
 
 ### :+1: Feedback Given By Our Client :point_down::
