@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**shahsaumil2001/shahsaumil2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm an extremely passionate Developer :iphone: ✨
 
-Here are some ideas to get you started:
+## About Me :bowtie::
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💎 10+ years of professional experience  
+- 🏆 My developed App Awarded IFAH in Las Vegas 
+- 🥇 My progressive App Reached #1 Female fitness app on App Store 
+- 🥇 My apps featured in 200+ Magazine and News Papers
+- 🌱 I’m doing to help clients who want achieve thier dream in to reality through technologies
+- 👯 I’m looking to collaborate on github and apple comminities
+
+### 📫 How to reach me:
