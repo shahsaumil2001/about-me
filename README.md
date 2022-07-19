@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm an extremely passionate Developer :iphone::computer: ✨
+# I'm an not just Developer. I am taking care of client's dream and goal :iphone::computer: ✨
 
 ## About Me:
 
