@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Developer by profession. Love coding & design. :iphone::computer: ✨
+# I'm passionate Developer by profession. Love coding & design. :iphone::computer: ✨
 
 ## About Me:
 
