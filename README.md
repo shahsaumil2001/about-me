@@ -15,8 +15,8 @@
 - 🌱 I’m helping clients who want achieve thier dream into reality through technologies
 
 ### 📫 Reach me :point_down::
-[LinkedIn](https://www.linkedin.com/in/saumil-shah-b954b9101/) 
+[![linkedIn-image](https://user-images.githubusercontent.com/56787966/180598832-21b5c99d-fdc9-4c54-a526-d170ad74774a.png)](https://www.linkedin.com/in/saumil-shah-b954b9101/) 
 
 
 ### :+1: Feedback Given By Our Client :point_down::
-[Client Testimonials](https://www.youtube.com/watch?v=c5xyJfBsjp0&feature=emb_imp_woyt) 
+[![youtube-icon](https://user-images.githubusercontent.com/56787966/180598791-640ed7cb-837e-4d0b-ab24-b3315735b423.png)](https://www.youtube.com/watch?v=c5xyJfBsjp0&feature=emb_imp_woyt) 
