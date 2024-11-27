@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm a passionate Developer. Love coding & design. :iphone::computer: ✨
+# I'm a veteran Mobile App Architect and Developer with a decade-long journey in crafting mobile applications. Passionate Developer to make thing happens. :iphone::computer: ✨
 
 ## About Me:
 
