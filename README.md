@@ -2,6 +2,8 @@
 
 I'm a veteran Mobile App Architect and Developer with a decade-long journey in crafting mobile applications. Passionate Developer to make thing happens. :iphone::computer: ✨
 
+[![Custom Upwork Badge](https://img.shields.io/badge/30%2B%20Clients-5%20Stars%20Reviews%20%7C%20100%25%20Job%20Success%20%7C%20Top%20Rated%20Plus-%230077B5?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/fl/sams1028?mp_source=share)
+
 ## About Me:
 
 - 💎 10+ years of professional experience  
