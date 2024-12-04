@@ -27,5 +27,5 @@ I'm a veteran Mobile App Architect and Developer with a decade-long journey in c
 ## 🌐 Socials (Reach me :point_down::):
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adeptdevtips) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumil-shah-b954b9101/) 
 
-### :+1: Feedback Given By Our Client :point_down::
-[![youtube-icon](https://user-images.githubusercontent.com/56787966/180598791-640ed7cb-837e-4d0b-ab24-b3315735b423.png)](https://www.youtube.com/watch?v=c5xyJfBsjp0&feature=emb_imp_woyt) 
+## :+1: Feedback Given By Our Client :point_down::
+[![youtube-icon](https://img.shields.io/badge/YouTube-%23FF000)](https://www.youtube.com/watch?v=c5xyJfBsjp0&feature=emb_imp_woyt) 
