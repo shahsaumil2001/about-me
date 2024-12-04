@@ -24,11 +24,8 @@ I'm a veteran Mobile App Architect and Developer with a decade-long journey in c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shahsaumil2001&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 📫 Reach me :point_down::
-[![linkedIn-image](https://user-images.githubusercontent.com/56787966/180598832-21b5c99d-fdc9-4c54-a526-d170ad74774a.png)](https://www.linkedin.com/in/saumil-shah-b954b9101/) 
-
-### 📫 Reach me on social media :point_down::
-https://www.instagram.com/adeptdevtips 
+## 🌐 Socials (Reach me :point_down::):
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adeptdevtips) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumil-shah-b954b9101/) 
 
 ### :+1: Feedback Given By Our Client :point_down::
 [![youtube-icon](https://user-images.githubusercontent.com/56787966/180598791-640ed7cb-837e-4d0b-ab24-b3315735b423.png)](https://www.youtube.com/watch?v=c5xyJfBsjp0&feature=emb_imp_woyt) 
